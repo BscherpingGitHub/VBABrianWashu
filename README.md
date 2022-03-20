@@ -10,7 +10,7 @@ We worked with Steve in getting information for his parent's investment plan. Th
 
 Now say he wanted information from a data set of thousands of stocks. This could take quite a bit longer. Refactoring will help us look for areas of improvement to make the code more efficient. We found a key issue between the two codes which focused on 1 "for" loop.\
 Original Code:\ 
-![VBAChallengeNONrefractorcode](Resources/VBAChallengeNONrefractorcode.png)\
+![VBAChallengeNONrefractorcode](Resources/VBAChallengeNONrefractorcode.png)
 Refactor Code:\
 ![VBAChallengerefractorcode](Resources/VBAChallengerefractorcode.png)
 
